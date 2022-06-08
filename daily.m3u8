@@ -6,7 +6,7 @@ http://39.135.32.236:6610/PLTV/77777777/224/3221225676/index.m3u8?$广西移动
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" tvg-speed="10MB/s" tvg-rez="1920x1080" group-title="央视",CCTV-3综艺
 http://39.135.32.236:6610/PLTV/77777777/224/3221225677/index.m3u8?
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" tvg-speed="12MB/s" tvg-rez="3840x2160" group-title="央视",CCTV-4中文国际
-https://p.ggiptv.com/v/4k.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" tvg-speed="15MB/s" tvg-rez="1920x1080" group-title="央视",CCTV-5体育
 http://39.135.32.236:6610/PLTV/77777777/224/3221225923/index.m3u8?
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-speed="10MB/s" tvg-rez="1920x1080" group-title="央视",CCTV-5+体育赛事
